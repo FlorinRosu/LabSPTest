@@ -1,3 +1,1 @@
-# LabSPTest
-Hello
 
